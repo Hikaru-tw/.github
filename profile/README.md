@@ -1,48 +1,47 @@
-![光曜町數位行銷 Hikaru Digital Marketing — Highlight Your Brand，AI 驅動品牌成長](https://github.com/Hikaru-tw/.github/assets/48248414/a4ace07c-398f-47d3-a54a-168c29b15d91)
+![光曜町數位行銷 Hikaru Digital Marketing — Highlight Your Brand](https://github.com/Hikaru-tw/.github/assets/48248414/a4ace07c-398f-47d3-a54a-168c29b15d91)
 
 # 光曜町數位行銷 Hikaru Digital Marketing
 
 **AI-Powered Digital Agency ｜ AI 驅動品牌成長夥伴**
 
-自 2010 年至今，光曜町數位行銷（Hikaru Digital Marketing）是一家總部位於台北的 AI 驅動數位行銷公司，協助企業整合 AI、創意、數位行銷與品牌策略，讓眾多品牌在市場上發光發熱。
+自 2010 年起，我們在台北結合品牌策略、創意設計、數位行銷與技術開發，為品牌打造線上與線下的互動體驗。
 
-開啟您的 AI Digital Journey，讓 AI 成為品牌成長的新動能。
+We build campaign websites, interactive experiences, and AI-powered digital solutions for brands.
 
-## 服務項目 Services
+[官方網站 Website](https://www.hikaru.com.tw/) · [合作洽詢 Contact](mailto:dennis.lin@hikaru.com.tw) · [公開專案 Repositories](https://github.com/orgs/Hikaru-tw/repositories?type=public)
 
-| 服務 | Service |
+## 我們打造什麼 What we build
+
+- **品牌網站與數位活動** — 產品網站、活動頁面、互動測驗與會員體驗。
+- **互動與創意技術** — 動態影像、互動介面、LINE 整合與客製化系統。
+- **AI 與行銷應用** — AI 視覺創作、智慧代理、自動化流程與數據應用。
+
+## 公開作品 Selected projects
+
+| AI 視覺實驗 | 互動前端實驗 |
 | --- | --- |
-| 品牌數位傳播 × AI 創意應用 | Branding & AI Digital Communication |
-| 數位製作 × AI 創意製作 | Digital & AI Creative Production |
-| 社群內容行銷 × AI 內容應用 | Social & AI Content Marketing |
-| 數位媒體操作 × AI 行銷應用 | Digital Media & AI Solutions |
-| 品牌延伸 × AI 應用服務 | Brand Extension & AI Solutions |
+| [![Latent Studies：AI 影像實驗畫廊](https://raw.githubusercontent.com/Hikaru-tw/hikaru-vol-026/main/docs/preview.jpg)](https://hikaru-tw.github.io/hikaru-vol-026/) | [![Infinite Canvas Gallery：可拖曳的無限畫布畫廊](https://raw.githubusercontent.com/Hikaru-tw/infinite-canvas-gallery/main/docs/preview.jpg)](https://hikaru-tw.github.io/infinite-canvas-gallery/) |
+| **[Latent Studies · Vol. 026](https://github.com/Hikaru-tw/hikaru-vol-026)**<br>25 幅生成式影像研究，以編輯式畫廊呈現品牌視覺探索。<br>[瀏覽作品 ↗](https://hikaru-tw.github.io/hikaru-vol-026/) | **[Infinite Canvas Gallery](https://github.com/Hikaru-tw/infinite-canvas-gallery)**<br>以 React 製作可拖曳、延遲載入與燈箱瀏覽的影像介面。<br>[體驗 Demo ↗](https://hikaru-tw.github.io/infinite-canvas-gallery/) |
 
-## 為什麼選擇光曜町 Why Hikaru
+## 知識分享與工具 Resources
 
-AI 不是目的，而是品牌成長的加速器。我們將 AI 深度嵌入品牌策略與行銷執行的每一個環節：
+| 專案 | 內容 |
+| --- | --- |
+| [GA4 / GTM 入門](https://github.com/Hikaru-tw/google-analytics-2025-intro) | 給行銷與非技術同仁的繁體中文互動簡報，介紹網站分析、GA4 與代碼管理。 |
+| [LEDOMARS 驅動程式資料整理](https://github.com/Hikaru-tw/ledomars-printer-driver) | 點陣式印表機驅動程式與操作手冊的非官方資料整理。 |
 
-- **AI + Strategy** — AI 市場分析、競品監測與消費者行為預測，讓策略決策更精準
-- **AI + Creativity** — 結合創意團隊的人文洞察與 AI 的生產速度，加速高品質內容產出
-- **AI + Marketing** — 優化廣告投放、SEO 與 GEO 生成式引擎最佳化，提升行銷成效與 ROI
-- **AI + Technology** — 導入 AI Agent、自動化流程與系統開發，打造企業智慧營運能力
+## 品牌服務與案例 Services & case studies
 
-## 代表案例 Case Studies
+品牌數位傳播 · 數位與 AI 創意製作 · 社群內容行銷 · 數位媒體操作 · 品牌延伸與 AI 應用
 
-- **【凱基銀行】有一種挺，叫速還金** — 金融界首次跨界合作，素還真推薦速還金
-- **【新光銀行】虎你發彩券行** — 線上刮、線上發，絡繹不絕的會員互動
-- **【台灣武田】合利他命產品網站** — 醫療級維他命 B 群專家品牌網站
-- **【味全萬丹】國寶嬤唸歌SHOW** — 線上 PK！首創「唸歌」UGC
-- **【LOTTE 樂天小熊】出發！樂天小熊體驗之旅** — O2O 串連，親子 DIY 互動創造使用時機
-- **【王德傳】形象官網 - 線上奉茶** — 技術結合人文，線上為您沏滿專屬好茶
+我們的品牌合作案例包含凱基銀行、新光銀行、台灣武田、味全萬丹、LOTTE 樂天小熊與王德傳。
+
+[查看品牌案例與完整服務 ↗](https://www.hikaru.com.tw/)
 
 ## 聯絡我們 Contact
 
-| | |
-| --- | --- |
-| 官方網站 | https://www.hikaru.com.tw/ |
-| 電話 | 02-2771-8636 |
-| Email | dennis.lin@hikaru.com.tw |
-| 地址 | 10688 台北市大安區忠孝東路4段142號2樓之1 |
-| Facebook | https://www.facebook.com/www.hikaru.com.tw |
-| YouTube | https://www.youtube.com/channel/UCaE75_64z-BKJH7vWK3RWgg |
+[www.hikaru.com.tw](https://www.hikaru.com.tw/) · [dennis.lin@hikaru.com.tw](mailto:dennis.lin@hikaru.com.tw) · +886 2 2771 8636
+
+10688 台北市大安區忠孝東路四段 142 號 2 樓之 1
+
+[Facebook](https://www.facebook.com/www.hikaru.com.tw) · [YouTube](https://www.youtube.com/channel/UCaE75_64z-BKJH7vWK3RWgg)
